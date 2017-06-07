@@ -5,7 +5,9 @@
 #include <windows.h>
 #include <locale.h>
 
-
+/*
+NOME: Jeferson Lima dos Santos RA: 2216104918
+*/
 void contagem ( int seconds )
 {
   clock_t endwait;
