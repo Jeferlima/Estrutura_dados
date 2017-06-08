@@ -7,9 +7,9 @@
 
 /*
 NOME: Jeferson Lima dos Santos RA: 2216104918
-NOME: Jeferson Lima dos Santos RA: 2216104918
-NOME: Jeferson Lima dos Santos RA: 2216104918
-NOME: Jeferson Lima dos Santos RA: 2216104918
+NOME: Italo Bonfim RA: 2216108517
+NOME: Italo Lima  RA: 2216109648
+NOME: Lucas Santos de Sousa RA: 2216105510
 */
 void contagem ( int seconds )
 {
